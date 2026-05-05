@@ -78,7 +78,7 @@ mono_crash.*
 *.app
 
 # Crashlytics generated file
-crashlytics-builds.properties
+crashlytics-build.properties
 
 # TestRunner generated files
 InitTestScene*.unity*
